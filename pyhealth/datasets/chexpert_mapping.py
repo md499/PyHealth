@@ -3,7 +3,6 @@ import warnings
 from pathlib import Path
 from typing import List, Optional
 import pandas as pd
-import numpy as np
 from pyhealth.datasets import MIMIC3Dataset
 import ast
 from .base_dataset import BaseDataset
